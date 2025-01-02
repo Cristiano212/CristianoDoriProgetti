@@ -1,1 +1,1 @@
-
+Ciao in questa sezione troverai i miei lavori con PowerBI, ti basterà copiare il/i link ed incollarli su un motore di ricerca per visionare il mio lavoro. Non avendo una licenza su PowerBI i progetti sono visibili solo in PDF e perdono purtroppo l'interattività. 
